@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1622824684 source:c:\users\asus\desktop\master\data structure\assig3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<dirent.h>
+
